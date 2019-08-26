@@ -1,0 +1,40 @@
+{
+  "name": "quora",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apexcharts": "^3.6.10",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "draft-js": "^0.10.5",
+    "draftjs-to-html": "^0.8.4",
+    "html-to-draftjs": "^1.4.0",
+    "immutable": "^4.0.0-rc.12",
+    "jquery": "^3.4.1",
+    "jsonwebtoken": "^8.5.1",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "react-dom": "^16.8.6",
+    "react-draft-wysiwyg": "^1.13.2",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "slate": "^0.46.1",
+    "slate-react": "^0.21.24"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:3001",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
