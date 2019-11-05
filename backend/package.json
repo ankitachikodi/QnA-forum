@@ -19,7 +19,7 @@
     "jsonwebtoken": "^8.5.1",
     "kafka-node": "^4.1.1",
     "mongoose-unique-validator": "^2.0.3",
-    "mongoose": "^5.5.4",
+    "mongoose": "^5.7.5",
     "mysql": "^2.17.1",
     "nodemon": "^1.18.11",
     "redis": "^2.8.0"
