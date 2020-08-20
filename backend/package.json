@@ -10,7 +10,7 @@
   "author": "Prathamesh Patki",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "circular-json": "^0.5.9",
     "cors": "^2.8.5",
